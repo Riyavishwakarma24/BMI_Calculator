@@ -8,9 +8,9 @@ A simple Body Mass Index (BMI) Calculator to help users determine their BMI base
 * 🖌️ Responsive and clean design for ease of use.
 
 # Technologies Used 💻
-HTML - for structuring the application.
-CSS - for styling and visual layout.
-JavaScript - for performing BMI calculations and updating the UI dynamically.
+* HTML - for structuring the application.
+* CSS - for styling and visual layout.
+* JavaScript - for performing BMI calculations and updating the UI dynamically.
 # Installation 🛠️
 * Clone the repository :
 https://riyavishwakarma24.github.io/BMI_Calculator/
