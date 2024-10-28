@@ -18,7 +18,7 @@ https://riyavishwakarma24.github.io/BMI_Calculator/
 
 # Usage 🚀
 * Enter your weight ⚖️ in kilograms.
-* Enter your height 📏 in centimeters (e.g., 1.75 for 175 cm).
+* Enter your height 📏 in centimeters.
 * Click "Submit" to see your BMI and the weight category based on your BMI value.
 # Formula 📐
 The formula used for calculating BMI:
