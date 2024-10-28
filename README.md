@@ -6,7 +6,7 @@ A simple Body Mass Index (BMI) Calculator to help users determine their BMI base
 * 📊 Real-time BMI calculation with instant results.
 * 🧑‍⚕️ BMI Interpretation to guide users on body weight categories.
 * 🖌️ Responsive and clean design for ease of use.
-* 
+
 # Technologies Used 💻
 HTML - for structuring the application.
 CSS - for styling and visual layout.
