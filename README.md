@@ -13,7 +13,7 @@ CSS - for styling and visual layout.
 JavaScript - for performing BMI calculations and updating the UI dynamically.
 # Installation 🛠️
 * Clone the repository :
-
+https://riyavishwakarma24.github.io/BMI_Calculator/
 * Open index.html in a browser: Open the file directly in your web browser or use a local server if you prefer.
 
 # Usage 🚀
